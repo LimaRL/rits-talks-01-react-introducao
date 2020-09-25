@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="rits" src="https://rits.dev/wp-content/themes/rits/assets/imgs/logotipo-1.png" width="200px" />
+  <img alt="rits" src="https://rits.dev/wp-content/themes/rits/assets/imgs/logotipo-2.png" width="200px" />
 </h1>
 
 <h3 align="center">Rits Talks 🎓</h3>
